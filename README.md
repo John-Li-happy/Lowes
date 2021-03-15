@@ -13,7 +13,7 @@ iOS Sample Project
 ### Search Page
 1. AutoLayout system was deployed
 2. Used URLSession to fetch data
-3. Keyboard was nicely handled
+3. Keyboard features was nicely handled
 4. Edge-cases were considered and handled
 
 ### Detail Page
