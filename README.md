@@ -2,11 +2,11 @@
 iOS Sample Project
 
 ## Features
-1. The design meets all requirments
-2. MVVM was deployed in all pages
-3. All constraints was set properly, there were no errors or warnings
-4. The User Interface(UI) system is designed fit all iPhone devices 
-5. Followed TDD to build this project
+1. This design meets all requirments
+2. MVVM system was deployed in all pages
+3. All Auto-Layout constraints was set properly, there were no errors nor warnings
+4. The User Interface(UI) system is designed to fit all iPhone devices 
+5. Followed TDD during programming
 6. Code are performed with nice sanitation
 7. Hard-Coding is highly avoided
 
